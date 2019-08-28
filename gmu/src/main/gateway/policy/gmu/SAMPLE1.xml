@@ -2,7 +2,7 @@
     <wsp:All wsp:Usage="Required">
         <L7p:HardcodedResponse>
             <L7p:ResponseBody><![CDATA[{
-"CALL": "SuccessAgain!!!", 
+"CALL": "Success!!!", 
 "Service Prop": "${service.property.env}",
 "Cluster.Prop": "${gateway.cluster.hostname}"
 }]]></L7p:ResponseBody>
